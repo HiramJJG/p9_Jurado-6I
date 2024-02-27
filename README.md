@@ -1,19 +1,5 @@
 # p9-Drawer-6I
+![image](https://github.com/HiramJJG/p9_Jurado-6I/assets/144726165/810245f5-f9db-4ce2-a8ce-dc023f097d52)
+![image](https://github.com/HiramJJG/p9_Jurado-6I/assets/144726165/4df40b20-abfe-4348-bef6-15e1e88e7c11)
+![Uploading image.png…]()
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
